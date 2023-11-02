@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: reverse-proxy-depl
-        image: minhquanvus/reverse-proxy:02
+        image: minhquanvus/reverse-proxy:03
         imagePullPolicy: Always
         resources:
           limits:
